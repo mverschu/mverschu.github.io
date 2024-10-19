@@ -18,7 +18,8 @@ author:
 
 
 # URL settings
-url: "mverschu.github.io" # Domain Name of host. [username].github.io for github pages
+url: "https://mverschu.github.io" # Domain Name of host. [username].github.io for github pages
+baseurl: ""  # Leave this empty for user/organization pages
 permalink: pretty
 
 markdown: kramdown

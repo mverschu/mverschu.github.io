@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://127.0.0.1:4000/justo-imperdiet-condimentum-ad-cum-acanone/</loc>
+<loc>https://mverschu.github.io/justo-imperdiet-condimentum-ad-cum-acanone/</loc>
 <lastmod>2021-02-09T01:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>http://127.0.0.1:4000/about/</loc>
+<loc>https://mverschu.github.io/about/</loc>
 </url>
 <url>
-<loc>http://127.0.0.1:4000/</loc>
+<loc>https://mverschu.github.io/</loc>
 </url>
 <url>
-<loc>http://127.0.0.1:4000/tags/</loc>
+<loc>https://mverschu.github.io/tags/</loc>
 </url>
 </urlset>
