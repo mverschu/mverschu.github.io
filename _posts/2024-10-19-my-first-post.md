@@ -1,11 +1,11 @@
 ---
-title: "Justo imperdiet condimentum ad cum aca"
-date: 2021-02-09T00:00:00+00:00
-author: Hakan Torun
+title: "Proving Grounds - Kevin"
+date: 2024-10-19T00:00:00+00:00
+author: Mathijs Verschuuren
 layout: post
-permalink: /justo-imperdiet-condimentum-ad-cum-acanone/
-categories: Genel
-tags: [lorem, ipsum]
+permalink: /pg-kevin/
+categories: Labs
+#tags: [lorem, ipsum]
 ---
 Lorem markdownum feriam: vir, vulnere cum postquam ocius, ecce. Exsangui totiens
 generis [Iuppiter](http://www.fertur.io/aeacidis) dederunt cerva refoventque,
