@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Ephesus - Minimalist Jekyll Theme</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2024-10-19T10:30:01+02:00</updated>
- <id>http://localhost:4000</id>
+ <link href="http://127.0.0.1:4000/atom.xml" rel="self"/>
+ <link href="http://127.0.0.1:4000/"/>
+ <updated>2024-10-19T10:33:15+02:00</updated>
+ <id>http://127.0.0.1:4000</id>
  <author>
    <name>Mathijs Verschuuren</name>
-   <email>your-email@email.com</email>
+   <email></email>
  </author>
 
  
  <entry>
    <title>Justo imperdiet condimentum ad cum aca</title>
-   <link href="http://localhost:4000/justo-imperdiet-condimentum-ad-cum-acanone/"/>
+   <link href="http://127.0.0.1:4000/justo-imperdiet-condimentum-ad-cum-acanone/"/>
    <updated>2021-02-09T01:00:00+01:00</updated>
-   <id>http://localhost:4000/my-first-post</id>
+   <id>http://127.0.0.1:4000/my-first-post</id>
    <content type="html">&lt;p&gt;Lorem markdownum feriam: vir, vulnere cum postquam ocius, ecce. Exsangui totiens
 generis &lt;a href=&quot;http://www.fertur.io/aeacidis&quot;&gt;Iuppiter&lt;/a&gt; dederunt cerva refoventque,
 mea nulla secessit modo et. Hospes &lt;strong&gt;felices stetimusque&lt;/strong&gt; erat: &lt;strong&gt;Niobe
