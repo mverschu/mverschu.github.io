@@ -70,12 +70,14 @@ GEM
 
 PLATFORMS
   x86_64-darwin-18
+  x86_64-linux-gnu
 
 DEPENDENCIES
   jekyll
   jekyll-paginate
   jekyll-relative-links
   jekyll-sitemap
+  liquid (~> 4.0)
   tzinfo-data (~> 1.2021)
   wdm (>= 0.1.0)
   webrick
