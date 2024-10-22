@@ -62,18 +62,7 @@ Thorough enumeration is often overlooked in favor of quicker exploitation attemp
 This serves as a reminder that, while diving deep into a particular service can sometimes yield results, a more methodical and patient approach to enumeration can save time and provide clearer insight into the full range of attack opportunities.
 The output indicated that the target was vulnerable to MS09-050:
 
-```bash
-PORT    STATE SERVICE
-445/tcp open  microsoft-ds
-| smb-vuln-ms09-050:
-|   VULNERABLE:
-|   SMBv2 exploit (MS09-050)
-|     State: VULNERABLE
-|     Risk factor: HIGH
-|     Description: A vulnerability in the Microsoft Server Message Block (SMB) protocol version 2 (SMBv2) could allow remote code execution.
-|     Disclosure date: 2009-09-08
-|     Exploit results in a buffer overflow in the srv2.sys driver, allowing attackers to execute arbitrary code.
-```
+![image](https://github.com/user-attachments/assets/193b9898-c39c-477f-9e12-c6e668218640)
 
 MS09-050 refers to a critical vulnerability in the Server Message Block Version 2 (SMBv2) protocol, specifically within the srv2.sys driver on affected Windows operating systems. This vulnerability, also known as CVE-2009-3103, was disclosed in September 2009 and affects Windows Vista, Windows Server 2008, and Windows 7 (pre-release versions). The flaw allows an attacker to craft a specially formed SMB packet and send it to a vulnerable system, which could lead to remote code execution due to a buffer overflow in the handling of the SMBv2 protocol.
 
