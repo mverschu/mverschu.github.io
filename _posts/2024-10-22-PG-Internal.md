@@ -5,7 +5,7 @@ author: Mathijs Verschuuren
 layout: post
 permalink: /pg-internal/
 categories: Labs
-tags: [writeup], [easy]
+tags: [writeup]
 ---
 Welcome to another Proving Grounds lab! In this session, we'll walk through the process of exploiting a Windows 2008 server. We'll leverage a variety of techniques, including vulnerability enumeration and Metasploit modules, to gain access to the machine.
 
