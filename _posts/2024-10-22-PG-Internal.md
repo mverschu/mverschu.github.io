@@ -1,5 +1,5 @@
 ---
-title: "Proving Grounds - Internal"
+title: "[Easy] - Proving Grounds - Internal"
 date: 2024-10-22T00:00:00+00:00
 author: Mathijs Verschuuren
 layout: post
